@@ -6,6 +6,10 @@ header {
     background-color:blanchedalmond;
     height: 50px;
     line-height: 50px;
+    border-top-color: burlywood;
+    border-top-width: 1px;
+    border-top-style: solid;
+
 }
 
 #container {
@@ -32,4 +36,12 @@ header {
 #sallyvegas {
     color: gray;
     text-align: center;
+}
+
+hr {
+    color: aqua;
+}
+
+#uppercase {
+    color: red;
 }
