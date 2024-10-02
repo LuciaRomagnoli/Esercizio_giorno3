@@ -1,13 +1,27 @@
-section{
+header {
     text-align: center;
 }
 
 #subtitle {
     background-color:blanchedalmond;
-}
 
 #container {
     width: 60%;
     margin-left: auto;
     margin-right: auto;
     }
+
+    a {
+        color: green;
+    }
+
+    hr {
+        color: rgb(64, 169, 122);
+    }
+
+.raleway-<uniquifier> {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
