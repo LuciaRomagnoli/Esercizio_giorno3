@@ -1,5 +1,13 @@
-.container {
-width: 60%;
-margin-left: auto;
-margin-right: auto;
+section{
+    text-align: center;
 }
+
+#subtitle {
+    background-color:blanchedalmond;
+}
+
+#container {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    }
