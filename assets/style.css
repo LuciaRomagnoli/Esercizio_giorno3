@@ -4,12 +4,14 @@ header {
 
 #subtitle {
     background-color:blanchedalmond;
+    height: 50px;
+}
 
 #container {
     width: 60%;
     margin-left: auto;
     margin-right: auto;
-    }
+}
 
     a {
         color: green;
